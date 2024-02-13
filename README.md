@@ -5,7 +5,7 @@ Soy un Ingeniero de Software y músico aficionado, apacionado por la arquitectur
 <br/><br/>
 Creo firmemente en la libre transmisión del conocimiento. Pretendo compartir mis aprendizajes con cualquier persona interesada en crecer técnicamente junto a mí. Compartiendo ideas, conceptos y herramientas que he recolectado en mi trayectoria académica y profesional.
 <br/><br/>
-Además de trabajar con tecnologías como Java (SE, EE, SpringBoot), AWS, Python, Angular, MySQL, tuve el honor de ser ponente en varias conferencias en una reconocida Universidad de mi ciudad en 2023. Esta experiencia me motivó aún más a querer inspirar y motivar a otros en el mundo del desarrollo de software.
+Además de trabajar con tecnologías como Java (SE, EE, SpringBoot), AWS, Python, Angular, MySQL, tuve el honor de ser ponente en varias conferencias en una reconocida Universidad de mi ciudad en 2023. Esta y varias experiencias de mentorías en las empresas para las que he trabajado, me llena de ganas para inspirar y motivar a otros en el apasionante mundo de la Ingeniería de Software.
 
 
 ## Encuéntrame en la web
