@@ -10,5 +10,5 @@ Además de trabajar con tecnologías como Java (SE, EE, SpringBoot), AWS, Python
 
 ## Encuéntrame en la web
 - Puedes ver mi perfíl laboral en <a href="https://linkedin.com/in/jairopolo"> LinkedIn</a> 💼
-- Puedes leer mis artículos en <a href="https://medium.com/@contacto.jairopolo"> Meidum</a> 📝
+- Puedes leer mis artículos en <a href="https://medium.com/@jairopoloma"> Meidum</a> 📝
 - Sígueme en Twitter! (X -.-) <a href="https://twitter.com/JairoPo17331154"> Twitter</a> 💁🏻‍♂️
