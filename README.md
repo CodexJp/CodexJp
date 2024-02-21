@@ -4,16 +4,19 @@
 Soy un Ingeniero de Software y músico aficionado. Apasionado por la arquitectura y las buenas prácticas de desarrollo de Software. 👨🏻‍💻
 <br/><br/>
 
-Con amplia experiencia en construcción de productos de alto impacto y liderazgo de equipos de tecnología. Mis ganas incansables de aprender y escribir código de calidad son el motor que me impulsa diariamente a implementar toda mi formación adquirida, en nuevos proyectos. 🚀
+Llevo más de 10 años desarrollando soluciones, construyendo productos de alto impacto, y liderando de equipos de tecnología. Durante este tiempo, he adquirido experiencia en diversas áreas, incluída la ingeniería de requisitos, arquitectura de software, metodologías ágiles y la optimización de procesos en la ejecución de proyectos.
+<br/><br/>
+
+Mis ganas incansables de aprender y escribir código de calidad son el motor que me impulsa diariamente a implementar toda mi formación adquirida, en nuevos proyectos. 🚀
 <br/><br/>
 
 Creo firmemente en la libre transmisión del conocimiento. Deseo compartir mis aprendizajes con cualquier persona interesada en crecer técnicamente junto a mí. Compartiendo ideas, conceptos y herramientas que he recolectado en mi trayectoria  profesional y académica. 🧠
 <br/><br/>
 
-Además de trabajar con tecnologías como Java (SE, EE, SpringBoot), AWS, Python, Angular, MySQL, a lo largo de mi trayectoria. También tuve el honor de ser ponente en varias conferencias en una reconocida Universidad de mi ciudad en 2023. 🧩 
+Además de trabajar con tecnologías y frameworks como Java, SpringBoot, AWS, Python, Angular, MySQL, CI/CD, Angular, DevOps a lo largo de mi trayectoria. También tuve el honor de ser ponente en varias conferencias en una reconocida Universidad de mi ciudad en 2023. 🧩 
 <br/><br/>
 
-Mi participación como ponente en aulas de clase, junto con experiencias en mentorías especializadas en empresas anteriores, me llena de ganas para inspirar y motivar a otros en el apasionante mundo de la Ingeniería de Software. 🧑🏻‍🎓
+Mi participación como ponente en aulas de clase, junto con eventos en mentorías especializadas en empresas anteriores, me llena de ganas para inspirar y motivar a otros en el apasionante mundo de la Ingeniería de Software. 🧑🏻‍🎓
 
 
 ## Encuéntrame en la web
