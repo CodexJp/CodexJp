@@ -1,10 +1,10 @@
 # ¡Hola! Soy Jairo 👋🏻
 
 <img src="https://raw.githubusercontent.com/CodexJp/CodexJp/master/jp-header-banner-image.png" alt="banner Jairo Polo - Software Engineer">
-Soy un Ingeniero de Software y músico aficionado. Apasionado por la arquitectura y las buenas prácticas de desarrollo de Software. 👨🏻‍💻
+Soy un Ingeniero de Software y músico aficionado apasionado por la arquitectura, la solución creativa de problemas y las buenas prácticas de desarrollo de Software. 👨🏻‍💻
 <br/><br/>
 
-Llevo más de 10 años desarrollando soluciones, construyendo productos de alto impacto, y liderando de equipos de tecnología. Durante este tiempo, he adquirido experiencia en diversas áreas, incluida la ingeniería de requisitos, arquitectura de software, metodologías ágiles y la optimización de procesos en la ejecución de proyectos. 🕹️
+Llevo más de 10 años desarrollando soluciones, construyendo productos de alto impacto, y liderando equipos de tecnología. Durante este tiempo, he adquirido experiencia en diversas áreas, incluida la ingeniería de requisitos, arquitectura de software, metodologías ágiles y la optimización de procesos en la ejecución de proyectos. 🕹️
 <br/><br/>
 
 Mis ganas incansables de aprender y escribir código de calidad son el motor que me impulsa diariamente a implementar toda mi formación adquirida, en nuevos proyectos. 🚀
