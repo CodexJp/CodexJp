@@ -13,7 +13,7 @@ Mis ganas incansables de aprender y escribir código de calidad son el motor que
 Creo firmemente en la libre transmisión del conocimiento. Deseo compartir mis aprendizajes con cualquier persona interesada en crecer técnicamente junto a mí. Compartiendo ideas, conceptos y herramientas que he recolectado en mi trayectoria  profesional y académica. 🧠
 <br/><br/>
 
-Además de trabajar con tecnologías y frameworks como Java, SpringBoot, AWS, Python, Angular, MySQL, CI/CD, Angular, DevOps a lo largo de mi trayectoria. También tuve el honor de ser ponente en varias conferencias en una reconocida Universidad de mi ciudad en 2023. 🧩 
+Además de trabajar con tecnologías y frameworks como Java, SpringBoot, AWS, Python, MySQL, CI/CD, Angular, DevOps a lo largo de mi trayectoria. También tuve el honor de ser ponente en varias conferencias en una reconocida Universidad de mi ciudad en 2023. 🧩 
 <br/><br/>
 
 Mi participación como ponente en aulas de clase, junto con eventos en mentorías especializadas en empresas anteriores, me llena de ganas para inspirar y motivar a otros en el apasionante mundo de la Ingeniería de Software. 🧑🏻‍🎓
